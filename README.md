@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Shamim
 #### WordPress Theme Developer
-I’m a WordPress developer who is passionate about making error-free websites. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. And I really love working with WordPress. I love learning new technologies. I have a passion for learning and sharing my knowledge with others as publicly as possible. My main goal is to be a full stack web developer.
 
-- 🌱 I’m currently learning Advanced WordPress Development
 - 📫 How to reach me: shamimhossain9836@gmail.com 
 
 ![Profile views](https://gpvc.arturio.dev/skshami)  
