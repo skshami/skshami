@@ -9,7 +9,7 @@
 ✅ WordPress.</br>
 ✅ JavaScript.</br>
 ✅ PHP.</br>
-✅ HTML5 / CSS3 / Bootstrap5.</br>
+✅ HTML5 / CSS3 / Bootstrap5/SCSS.</br>
 ✅ Canva/Photoshop.</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skshami)](https://github.com/anuraghazra/github-readme-stats)
