@@ -3,7 +3,6 @@
 
 - 📫 How to reach me: shamimhossain9836@gmail.com 
 
-![Profile views](https://gpvc.arturio.dev/skshami)  
 
 ### 👨‍💻 Skills & Experiance: </br>
 ✅ WordPress.</br>
