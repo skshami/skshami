@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Shamim
-#### WordPress Theme Developer
+#### Full Stack WordPress Developer
 
-- 📫 How to reach me: shamimhossain9836@gmail.com 
+- 📫 How to reach me: developer.shamimkhan@gmail.com
 
 
 ### 👨‍💻 Skills & Experiance: </br>
@@ -9,7 +9,7 @@
 ✅ JavaScript.</br>
 ✅ PHP.</br>
 ✅ HTML5 / CSS3 / Bootstrap5/SCSS.</br>
-✅ Canva/Photoshop.</br>
+✅ Figma to HTML.</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skshami)](https://github.com/anuraghazra/github-readme-stats)
 
